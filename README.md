@@ -1,18 +1,23 @@
-## Getting Started
+# CarShop 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto de estudo desenvolvido para aprender Java e Spring Boot na prática.
+A ideia é criar um sistema web onde o usuário seleciona um veículo, vai adicionando 
+acessórios e o preço é calculado em tempo real. O carro vai ser exibido em 3D usando Three.js.
 
-## Folder Structure
+## Tecnologias que estou usando
+- Java 25
+- Spring Boot
+- Three.js
+- Maven
 
-The workspace contains two folders by default, where:
+## Status
+ Em desenvolvimento — aprendendo enquanto construo!
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## O que já foi feito
+- [x] Fase 1 — Classes base (Veiculo, Acessorio, Orcamento) com lógica de cálculo
+- [ ] Fase 2 — API REST com Spring Boot
+- [ ] Fase 3 — Frontend com HTML/JS
+- [ ] Fase 4 — Modelo 3D com Three.js
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Como rodar
+Em breve, conforme o projeto avançar.
